@@ -1,0 +1,19 @@
+{
+  "name": "express-api",
+  "version": "1.0.0",
+  "description": "Node.js and Express REST API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\\Error: no test specified"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node.js Lab"
+  },
+  "keywords": [
+    "first",
+    "app"
+  ],
+  "author": "Kushal Patel",
+  "license": "ISC"
+}
